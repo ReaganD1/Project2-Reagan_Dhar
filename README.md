@@ -8,7 +8,7 @@ Time spent: **4** hours spent in total
 
 ## Summary
 
-**Android Kotlin Debugging** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **The goals for this this project is to make sure that eash parts work properly and does not compile an error.**
+**Android Kotlin Debugging** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **The goal for this project is to make sure that all parts work properly and do not compile an error.**
 
 If I had to describe this project in three (3) emojis, they would be: **🙂👍👌**
 
@@ -49,7 +49,7 @@ GIF created with **Kap**
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
-I learned how to use the debugging tool in android studio.
+**I learned how to use the debugging tool in android studio.**
 
 ## License
 
